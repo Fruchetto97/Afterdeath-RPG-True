@@ -1,0 +1,499 @@
+{
+  "version": "1.2",
+  "created_at": "2025-10-15T14:21:49.804235",
+  "last_saved": "2025-10-15T18:12:25.398667",
+  "play_time_seconds": 0,
+  "player": {
+    "name": "AKUL0",
+    "species": "Selkio",
+    "level": 1,
+    "exp": 0,
+    "gif_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Player_GIFs\\Selkio_Player_GIF.gif",
+    "sprite_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\characters\\Selkio_32p.png",
+    "stats": {
+      "hp": 198.29999999999995,
+      "max_hp": 200,
+      "regen": 20,
+      "max_regen": 20,
+      "reserve": 50,
+      "max_reserve": 50,
+      "stamina": 9,
+      "max_stamina": 10,
+      "head_hp": 30,
+      "max_head_hp": 30,
+      "body_hp": 100,
+      "max_body_hp": 100,
+      "right_arm_hp": 15,
+      "max_right_arm_hp": 15,
+      "left_arm_hp": 15,
+      "max_left_arm_hp": 15,
+      "right_leg_hp": 18.999999999999986,
+      "max_right_leg_hp": 20,
+      "left_leg_hp": 19.29999999999999,
+      "max_left_leg_hp": 20,
+      "extral_limbs_hp": 0,
+      "max_extral_limbs_hp": 0,
+      "evo_points_hp": 0,
+      "evo_points_regen": 0,
+      "evo_points_stamina": 0,
+      "evo_points_reserve": 0,
+      "evo_points_strength": 0,
+      "evo_points_dexterity": 0,
+      "evo_points_special": 0,
+      "evo_points_speed": 0
+    },
+    "position": {
+      "x": 970.6399999999999,
+      "y": 1181.0400000000009,
+      "current_map": "foresta_dorsale_sud"
+    },
+    "equipment": {
+      "Armor 1": {
+        "type": "armor",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Armor 2": {
+        "type": "armor",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Armor 3": {
+        "type": "armor",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Armor 4": {
+        "type": "armor",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Armor 5": {
+        "type": "armor",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Armor 6": {
+        "type": "armor",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Armor 7": {
+        "type": "armor",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Armor 8": {
+        "type": "armor",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Armor 9": {
+        "type": "armor",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Armor 10": {
+        "type": "armor",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Artifact 1": {
+        "type": "artifact",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Artifact 2": {
+        "type": "artifact",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Artifact 3": {
+        "type": "artifact",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Artifact 4": {
+        "type": "artifact",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Artifact 5": {
+        "type": "artifact",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Artifact 6": {
+        "type": "artifact",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Artifact 7": {
+        "type": "artifact",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Artifact 8": {
+        "type": "artifact",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Artifact 9": {
+        "type": "artifact",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Artifact 10": {
+        "type": "artifact",
+        "equipped": false,
+        "weapon_class": null,
+        "weapon_type": null,
+        "icon_path": null,
+        "image_path": null,
+        "moves": []
+      },
+      "Messer of Blusqua": {
+        "type": "weapon",
+        "equipped": false,
+        "weapon_class": "Curved Sword",
+        "weapon_type": "One Handed",
+        "icon_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Equipment\\Messer_Blusqua_Icon.png",
+        "image_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Equipment\\Messer_Blusqua_Image.png",
+        "moves": [
+          "Basic Slash",
+          "Clean Cut",
+          "Piercing Thrust"
+        ]
+      },
+      "Kriegmesser of Blusqua": {
+        "type": "weapon",
+        "equipped": false,
+        "weapon_class": "Curved Longsword",
+        "weapon_type": "One and a Half Handed",
+        "icon_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Equipment\\Kriegmesser_Blusqua_Icon.png",
+        "image_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Equipment\\Kriegmesser_Blusqua_Image.png",
+        "moves": [
+          "Slash",
+          "Pierce",
+          "Smash",
+          "Ultimate"
+        ]
+      },
+      "Dane Axe of Blusqua": {
+        "type": "weapon",
+        "equipped": false,
+        "weapon_class": "Great Axe",
+        "weapon_type": "Two Handed",
+        "icon_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Equipment\\Dane_Axe_Blusqua_Icon.png",
+        "image_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Equipment\\Dane_Axe_Blusqua_Image.png",
+        "moves": [
+          "Slash",
+          "Pierce",
+          "Smash",
+          "Ultimate"
+        ]
+      },
+      "Marrow Pair": {
+        "type": "weapon",
+        "equipped": false,
+        "weapon_class": "Sword & Shield",
+        "weapon_type": "Two Handed",
+        "icon_path": "C:\\\\Users\\\\franc\\\\Desktop\\\\Afterdeath_RPG\\\\Overworld\\\\Items\\\\Equipment\\\\Marrow_Pair_Icon.png",
+        "image_path": "C:\\\\Users\\\\franc\\\\Desktop\\\\Afterdeath_RPG\\\\Overworld\\\\Items\\\\Equipment\\\\Marrow_Pair_Image.png",
+        "moves": [
+          "Slash",
+          "Pierce",
+          "Smash",
+          "Ultimate"
+        ]
+      }
+    },
+    "items": {
+      "Spacchiotti": {
+        "type": "MISC",
+        "count": 4,
+        "icon_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Misc\\Spacchiotti_Icon.png",
+        "image_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Misc\\Spacchiotti_Image.png"
+      },
+      "Red Rathos Meat": {
+        "type": "FOOD",
+        "count": 6,
+        "icon_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Food\\Rathos_Meat_Red.png",
+        "image_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Food\\Rathos_Meat_Red.png"
+      },
+      "Green Rathos Meat": {
+        "type": "FOOD",
+        "count": 3,
+        "icon_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Food\\Rathos_Meat_Green.png",
+        "image_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Food\\Rathos_Meat_Green.png"
+      },
+      "Purple Rathos Meat": {
+        "type": "FOOD",
+        "count": 1,
+        "icon_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Food\\Rathos_Meat_Purple.png",
+        "image_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Food\\Rathos_Meat_Purple.png"
+      },
+      "Red Rathos Pulp": {
+        "type": "FOOD",
+        "count": 1,
+        "icon_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Food\\Rathos_Pulp_Red.png",
+        "image_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Food\\Rathos_Pulp_Red.png"
+      },
+      "Pink Rathos Pulp": {
+        "type": "FOOD",
+        "count": 1,
+        "icon_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Food\\Rathos_Pulp_Pink.png",
+        "image_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Food\\Rathos_Pulp_Pink.png"
+      },
+      "Mnemonic Fruit": {
+        "type": "KEY",
+        "count": 1,
+        "icon_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Key\\Mnemonic_Fruit_Icon.png",
+        "image_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Key\\Mnemonic_Fruit_Image.png"
+      },
+      "Black Ooze": {
+        "type": "KEY",
+        "count": 1,
+        "icon_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Key\\Black_Ooze_Icon.png",
+        "image_path": "C:\\Users\\franc\\Desktop\\Afterdeath_RPG\\Overworld\\Items\\Key\\Black_Ooze_Image.png"
+      }
+    },
+    "weapon_proficiencies": {
+      "Side Sword": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "Long Sword": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "Curved Sword": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "Curved Longsword": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "SwordStaff": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "Spear": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "Greatsword": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "Rapier": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "Axe": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "Hammer": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "Mace": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "Bow": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "Crossbow": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "Great Axe": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "Halberd": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "Dagger": {
+        "proficiency": 0,
+        "experience": 0
+      },
+      "Sword & Shield": {
+        "proficiency": 0,
+        "experience": 0
+      }
+    },
+    "custom_moves": [
+      {
+        "name": "Sawblade Hands",
+        "type": "ATK",
+        "scaling": {
+          "forz": 0,
+          "des": 1,
+          "spe": 2
+        },
+        "effects": [
+          [
+            "bleed",
+            1,
+            1,
+            0
+          ]
+        ],
+        "requirements": [
+          "NEEDS 2 ARMS"
+        ],
+        "elements": [
+          "CUT"
+        ],
+        "accuracy": 90
+      },
+      {
+        "name": "Moving Muscles",
+        "type": "BUF",
+        "scaling": {
+          "forz": 0,
+          "des": 0,
+          "spe": 0
+        },
+        "effects": [
+          [
+            "moving_blades",
+            1,
+            999,
+            0
+          ]
+        ],
+        "requirements": [
+          "NEEDS LEG"
+        ],
+        "elements": [],
+        "accuracy": 90
+      },
+      {
+        "name": "Kick",
+        "type": "ATK",
+        "scaling": {
+          "forz": 2,
+          "des": 2,
+          "spe": 0
+        },
+        "effects": [],
+        "requirements": [
+          "NEEDS ARM"
+        ],
+        "elements": [
+          "Impact"
+        ],
+        "accuracy": 90
+      }
+    ],
+    "memory_skills": {
+      "equipped": [],
+      "available_memory_points": 10,
+      "skill_states": {
+        "raising_speed": {
+          "activations": 0,
+          "applied_bonus": 0
+        }
+      }
+    }
+  },
+  "world_state": {
+    "explored_maps": [
+      "foresta_dorsale_sud"
+    ],
+    "maps": {},
+    "enemies": {},
+    "interactions": {},
+    "enemy_type_interactions": {},
+    "corpse_interactions": {},
+    "map_events": {}
+  },
+  "game_settings": {
+    "music_volume": 0.7,
+    "sfx_volume": 0.8,
+    "fullscreen": false
+  }
+}

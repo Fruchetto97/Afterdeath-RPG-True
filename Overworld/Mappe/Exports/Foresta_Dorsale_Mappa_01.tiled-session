@@ -1,0 +1,193 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Foresta_Dorsale_01.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Tutti i file (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "Animazioni Acqua.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/franc/Afterdeath-RPG/Overworld/Tilesets/FieldsTileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/franc/Afterdeath-RPG/Overworld/Tilesets/Tileset_foresta_dorsale.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        },
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Objects/FieldsTileset (1).tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Objects/Ogetti_Citta_01.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.33
+        },
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Objects/Oggetti_Foresta_Dorsale.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Objects/Oggetti_Foresta_Dorsale/Oggetti_Foresta_Dorsale_V1.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Objects/Oggetti_Foresta_Dorsale_V1.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Tilesets/Foresta_Dorsale_MAP_01.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 779,
+                "y": 628
+            }
+        },
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Tilesets/Foresta_Dorsale_MAP_02.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 262.75,
+                "y": 847
+            }
+        },
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Tilesets/Ponte_Base_dorsale.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Tilesets/Tileset_Città_Dorsale V3.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 3
+        },
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Tilesets/Tileset_Città_Dorsale.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1.5
+        },
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Tilesets/Tileset_Città_01.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.33
+        },
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Tilesets/Tileset_Foresta_Dorsale_NoObj.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Citta_01.tmx": {
+            "expandedObjectLayers": [
+                4,
+                2
+            ],
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1600,
+                "y": 1599.875
+            }
+        },
+        "Città_01.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 416,
+                "y": 1278
+            }
+        },
+        "FieldsTileset (1).tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 3
+        },
+        "Foresta_Dorsale_01.tmx": {
+            "expandedObjectLayers": [
+                21,
+                23,
+                19,
+                26,
+                24,
+                18,
+                22
+            ],
+            "scale": 3,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 807.3333333333333,
+                "y": 799.8333333333333
+            }
+        },
+        "Foresta_Dorsale_01.tmx#Oggetti_Foresta_Dorsale": {
+            "dynamicWrapping": true,
+            "scaleInEditor": 1
+        },
+        "Foresta_Dorsale_02.tmx": {
+            "expandedObjectLayers": [
+                10,
+                4,
+                6
+            ],
+            "scale": 2,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 320,
+                "y": 479.75
+            }
+        }
+    },
+    "frame.defaultDuration": 200,
+    "last.externalTilesetPath": "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Tilesets",
+    "last.imagePath": "C:/Users/franc/Downloads",
+    "map.height": 40,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Foresta_Dorsale_01.tmx",
+        "Foresta_Dorsale_02.tmx",
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Objects/Ogetti_Citta_01.tsx",
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Tilesets/Tileset_Città_01.tsx",
+        "Citta_01.tmx",
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Tilesets/Tileset_Città_Dorsale V3.tsx"
+    ],
+    "project": "Foresta_Dorsale_Mappa_01.tiled-project",
+    "recentFiles": [
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Tilesets/Tileset_Città_Dorsale V3.tsx",
+        "Citta_01.tmx",
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Tilesets/Tileset_Città_01.tsx",
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Objects/Ogetti_Citta_01.tsx",
+        "Foresta_Dorsale_02.tmx",
+        "Foresta_Dorsale_01.tmx",
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Tilesets/Tileset_Città_Dorsale.tsx",
+        "FieldsTileset (1).tsx",
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Objects/FieldsTileset (1).tsx",
+        "Città_01.tmx",
+        "C:/Users/franc/Desktop/Afterdeath_RPG/Overworld/Objects/Oggetti_Foresta_Dorsale_V1.tsx",
+        "C:/Users/franc/Afterdeath-RPG/Overworld/Tilesets/Tileset_foresta_dorsale.tsx"
+    ],
+    "tileset.lastUsedFilter": "File Tileset Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}
