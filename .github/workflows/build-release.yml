@@ -52,11 +52,6 @@ jobs:
         run: |
           pyinstaller --onefile Main_Menu.py
 
-      - name: Copy support files
-        run: |
-          Copy-Item -Path news.txt -Destination dist/
-          Copy-Item -Path config.txt -Destination dist/
-
       - name: Upload EXE as artifact
         uses: actions/upload-artifact@v4
         with:
