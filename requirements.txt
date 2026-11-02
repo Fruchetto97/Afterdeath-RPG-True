@@ -1,4 +1,4 @@
-# Generato automaticamente tramite analisi statica il 2026-04-09 11:52
-# Attenzione: le versioni specifiche non sono indicate.
-
-pygame
+# Runtime dependencies (keep in sync with pyproject.toml)
+pygame-ce>=2.5,<3
+Pillow>=10.0
+pytmx>=3.32
