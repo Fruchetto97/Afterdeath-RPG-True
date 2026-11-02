@@ -1,0 +1,55 @@
+[project]
+name = "afterdeath"
+version = "0.1.0"
+description = "Afterdeath RPG - a turn-based pixel-art RPG about undead species"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pygame-ce>=2.5",
+    "Pillow>=10.0",
+    "pytmx>=3.32",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.6",
+    "pyinstaller>=6.10",
+]
+
+[project.scripts]
+afterdeath = "afterdeath.main_menu:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = { find = { include = ["afterdeath*"] } }
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+# pycodestyle errors, pyflakes, import sorting, pyupgrade, bugbear
+select = ["E", "F", "W", "I", "UP", "B"]
+ignore = [
+    "E501",  # long lines: many debug prints and data tables; the formatter handles code
+    "E722",  # bare except: kept as-is in legacy game code, to be reviewed case by case
+    "B006",  # mutable default arguments: part of the existing game API
+    "B007",  # unused loop variables
+    "B904",  # raise ... from err
+    "UP031", # %-formatting
+    # Legacy game code, to be cleaned up gradually:
+    "F841",  # unused local variables
+    "B905",  # zip() without strict=
+    "E731",  # lambda assignment
+    "E741",  # ambiguous variable names
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["afterdeath"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
